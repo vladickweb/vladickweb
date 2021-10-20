@@ -2,8 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
-## I'm Full Stack Web Developer with MERN Stack 
-<img align="left" alt="MERN Stack" width="35px" src="https://drek4537l1klr.cloudfront.net/jain/v-1/Figures/MERN.png" />
+## I'm Full Stack Web Developer with MERN Stack <img align="right" alt="MERN Stack" width="100px" src="https://drek4537l1klr.cloudfront.net/jain/v-1/Figures/MERN.png" />
 
 - 🌱 I’m currently learning Typescript, Java, and Relational databases
 - 👯 I’m looking to collaborate with other content creators
