@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.isani.com.my/my/wp-content/uploads/2019/09/kisspng-computer-icons-symbol-clip-art-website-logo-5b0c99a72da004.2539804115275524231869.png" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://mekes.com/app/uploads/2020/12/linkedin-logo.png" />][linkedin]
 
 <br />
 
@@ -25,8 +25,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitHub" width="26px" src="https://icons-for-free.com/iconfiles/png/512/developers+github+github+logo+web+design+web+development+icon-1320196083747626912.png" />
+<img align="left" alt="Terminal" width="26px" src="https://2.bp.blogspot.com/-K6OX_DJBHl0/Vms2vUM7PII/AAAAAAAAA4M/QCNAHS_RLeY/s1600/Terminal-icon.png" />
 
 <br />
 <br />
