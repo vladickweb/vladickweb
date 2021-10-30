@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Englissue - Social Network to Learn English with interactive chat, videocall and payment gateway](https://englissue.herokuapp.com)
 - [Eventator - Social Network to find latest events and connect with friends with interactive chat](https://eventator.herokuapp.com)
-- [Square Invaders - Vertical Retro Shooter game based in classic Space Invaders](https://github.com/vladickweb/)
+- [Square Invaders - Vertical Retro Shooter game based in classic Space Invaders](https://vladickweb.github.io/square-invaders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
