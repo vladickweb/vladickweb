@@ -1,4 +1,4 @@
-### Hi there, I'm Vladick - [BUILDING WEBSITE...⛏️][website] 👋
+### Hi there, I'm Vladick - [HERE IS MY PERSONAL WEBSITE!][website] 👋
 
 
 ## I'm Full Stack Web Developer with MERN Stack <img align="left" alt="MERN Stack" width="100px" src="https://drek4537l1klr.cloudfront.net/jain/v-1/Figures/MERN.png" />
@@ -45,5 +45,5 @@
 
 
 
-[website]: https://github.com/vladickweb
+[website]: https://vladickweb.herokuapp.com/
 [linkedin]: https://linkedin.com/in/vladick-kapkan
