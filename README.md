@@ -1,11 +1,8 @@
 ### Hi there, I'm Vladick - [HERE IS MY PERSONAL WEBSITE!][website] 👋
+ 
 
-
-## I'm Full Stack Web Developer with MERN Stack <img align="left" alt="MERN Stack" width="100px" src="https://drek4537l1klr.cloudfront.net/jain/v-1/Figures/MERN.png" />
-
-- 🌱 I’m currently learning Typescript, Java, and Relational databases
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
